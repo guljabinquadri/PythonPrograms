@@ -5,7 +5,7 @@ for item in list1:
     print(item)
 
 # For loop in list
-list2 = [ ["harry",18], ["Larry",19], ["Marry",21] ]
+list2 = [ ["Larry",18], ["Harry",19], ["Sarry",21] ]
 for item in list2:
     print(item)
 for item, age in list2:
