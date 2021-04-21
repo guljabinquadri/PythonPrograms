@@ -2,7 +2,7 @@
 
 j = 5
 while(True):#or while(1) #it will run the result continuosly
-    if j<=9:
+    if j<=10:
         j= j+1
         continue #The continue keyword is used to end the current iteration
                         # in a for loop (or a while loop), and continues to the next iteration.
